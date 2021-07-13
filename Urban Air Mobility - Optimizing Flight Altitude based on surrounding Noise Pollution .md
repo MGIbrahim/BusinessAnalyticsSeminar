@@ -1,4 +1,4 @@
-# BusinessAnalyticsSeminar
+# Business Analytics Seminar: Urban Air Mobility - Optimizing Flight Altitude based on surrounding Noise Pollution
 
 Urban Air Mobility (UAM) has become a topic of great importance in recent
 years as a new method of air transportation. Due to the traffic congestion found in
